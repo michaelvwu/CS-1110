@@ -1,0 +1,19 @@
+Michael Wu (mvw5mf)
+Cesar Roucco-Montanez (cr3fd) 
+
+Game:
+its a collection game that includes object/obstacle dodging
+
+Features implemented: 
+1. Animation of sprites
+3. Collectables
+6. Health meter/health indicator
+7. Music/sound
+8. two players simultaneously 
+
+How to play:
+controls: either the directional keys or wsad 
+space to start the game
+aim: to collect most coins or reach goal total while dodging the falling blocks 
+that kill health. the game is won/ends when either player scores the goal amount
+or an opponent's health is diminished to zero. 

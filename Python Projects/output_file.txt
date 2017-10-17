@@ -1,0 +1,2 @@
+['.idea', 'basic_programming.py', 'decisions.py', 'hello.py', 'letter_grade.py', 'looping.py', 'lo_shu.py', 'names.txt', 'operation.py', 'output_file.txt', 'pig.py', 'reading_files.py', 'test2.py', 'today.py', 'translator.py', 'tree.py', 'turtle_drawing.py', 'wahoospoon.py', 'weather.csv', 'weather.txt']
+20831
