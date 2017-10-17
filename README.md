@@ -1,1 +1,3 @@
-# CS-1110
+# Introduction to Programming
+
+Programming projects and assignments in Python
